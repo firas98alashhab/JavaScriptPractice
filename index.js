@@ -63,7 +63,7 @@ var sunglasses = {
   model: {
       name: "aviator",
       price: 300,
-      thumbImg: "./images/thumb-aviator.png",
+      thumbImg: "images/thumb-aviator.png",
       cssClass: "frame-aviator",
   },
   lenses: {
